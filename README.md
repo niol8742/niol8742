@@ -1,4 +1,4 @@
-- Hi, I’m Nick O'Leary, I am a computer science major at the University of Colorado Boulder, and I hope to contribute to unique and interesting GitHubs centering around software design and programming.
+
 
 
 <!---
